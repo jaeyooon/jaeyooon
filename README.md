@@ -15,13 +15,17 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white">   
 
-</div>
 </br></br>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaeyooon&theme=rose_pine&show_icons=true" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaeyooon&theme=rose_pine&show_icons=true" width="54%">
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyooon&exclude_repo=dkssud8150.github.io&layout=compact&theme=default">
 </a>
+
+</div>
+
+
+
 
