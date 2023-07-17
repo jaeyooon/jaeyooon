@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello,+I'm+Jaeyoon&font=Charm&size=30&color=a0c4ff&center=true&repeat=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Charm&size=30&pause=1000&color=A0C4FF&center=true&width=435&lines=Hello%2C+I'm+Jaeyoon)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/java-936639?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white">   
+
 </div>
 </br></br>
 
