@@ -1,10 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=ffe5d9&height=200&section=header&text=Hi%20there👋&fontSize=40&fontColor=533e2d)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffe5d9&height=180&section=header&text=Hi%20there👋&fontSize=30&fontColor=533e2d)
 
 <div align="center">
-🌼Jaeyoon's   
-
-<a href="https://velog.io/@jycho98"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
-
 
 ✨Studying
 
