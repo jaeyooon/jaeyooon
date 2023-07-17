@@ -1,4 +1,5 @@
-<a href=#"><img src="https://readme-typing-svg.demolab.com?font=Charm&weight=700&size=35&pause=1000&color=A0C4FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Jaeyoon" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Charm&weight=700&size=35&pause=1000&color=A0C4FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Jaeyoon)](https://git.io/typing-svg)
+
 <div align="center">
 
 ### ✨Studying
