@@ -18,7 +18,7 @@
 </br></br>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaeyooon&theme=rose_pine&show_icons=true" width="52%">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaeyooon&theme=rose_pine&show_icons=true" width="50%">
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyooon&exclude_repo=dkssud8150.github.io&layout=compact&theme=default">
