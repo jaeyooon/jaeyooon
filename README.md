@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Charm&size=30&pause=1000&color=A0C4FF&center=true&width=435&lines=Hello%2C+I'm+Jaeyoon)](https://git.io/typing-svg)
 
 ### ✨Studying
-
+* * *
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white">
