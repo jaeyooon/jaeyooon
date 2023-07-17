@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=ffe5d9&height=180&section=header&text=Hi%20there👋&fontSize=30&fontColor=533e2d)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello,+I'm+Jaeyoon&font=Charm&size=30&color=a0c4ff&center=true&repeat=false)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -13,11 +13,14 @@
 <img src="https://img.shields.io/badge/java-936639?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white">   
-
-</br>
-
-![jaeyooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyooon&show_icons=true&theme=rose_pine)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyooon&layout=compact&theme=buefy)
-
 </div>
+</br></br>
+
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaeyooon&theme=rose_pine&show_icons=true" width="54%">
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyooon&exclude_repo=dkssud8150.github.io&layout=compact&theme=buefy">
+</a>
+
