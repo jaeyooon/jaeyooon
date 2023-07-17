@@ -2,7 +2,7 @@
 
 <div align="center">
 
-#### ✨Studying
+### ✨Studying
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
