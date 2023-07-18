@@ -4,6 +4,10 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=jaeyooon&theme=rose_pine&show_icons=true">
+
+</br>
+
 ## 👩🏻‍💻Studying
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
@@ -17,12 +21,17 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white">   
 
-</br></br>
+</br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaeyooon&theme=rose_pine&show_icons=true">
+## 🕊About me
+ <a href="https://velog.io/@jycho98"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jycho98"/></a>
+<a href="mailto:jycho0208@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jycho0208@gmail.com"/></a>
+
 
 </div>
 
+
+ 
 
 
 
