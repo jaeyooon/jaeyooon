@@ -4,10 +4,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaeyooon&theme=rose_pine&show_icons=true">
-
-</br>
-
 ## 👩🏻‍💻Studying
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
@@ -27,6 +23,9 @@
  <a href="https://velog.io/@jycho98"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jycho98"/></a>
 <a href="mailto:jycho0208@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jycho0208@gmail.com"/></a>
 
+</br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaeyooon&theme=rose_pine&show_icons=true">
 
 </div>
 
