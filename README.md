@@ -27,10 +27,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaeyooon&theme=rose_pine&show_icons=true">
 
-</br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeyooon&count_bg=%23FF758F&title_bg=%23003049&icon=&icon_color=%23E7E7E7&title=hits%F0%9F%8C%B7&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
 
 
