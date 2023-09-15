@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=ffddd2&height=200&text=Welcome%20👋&fontColor=ffffff&fontSize=50&fontAlign=70&rotate=13&fontAlignY=25&desc=Jaeyoon's%20GitHub&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=efc3e6&height=200&section=header&text=Welcome%20👋&fontColor=ffffff&fontSize=50&fontAlign=75&fontAlignY=35&desc=Jaeyoon's%20GitHub&descAlign=75&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&weight=400&size=40&pause=1000&color=A0C4FF&center=true&vCenter=true&width=800&height=80&lines=Hi+there%2C+I'm+Jaeyoon:D)](https://git.io/typing-svg)
 
