@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=efc3e6&height=200&section=header&text=Welcome%20👋&fontColor=ffffff&fontSize=50&fontAlign=75&fontAlignY=35&desc=Jaeyoon's%20GitHub&descAlign=75&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&weight=400&size=40&pause=1000&color=A0C4FF&center=true&vCenter=true&width=800&height=80&lines=Hi+there%2C+I'm+Jaeyoon:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&weight=400&size=40&pause=1000&color=3d5a80&center=true&vCenter=true&width=800&height=80&lines=Hi+there%2C+I'm+Jaeyoon:D)](https://git.io/typing-svg)
 
 <div align="center">
 
