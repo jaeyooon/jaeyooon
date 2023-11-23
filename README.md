@@ -6,16 +6,16 @@
 
 ## 👩🏻‍💻Studying
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">   
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">   
 </br>
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat-square&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/java-936639?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white">   
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/java-936639?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">   
 
 </br>
 
@@ -25,7 +25,7 @@
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaeyooon&theme=rose_pine&show_icons=true">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyooon&hide_progress=true)](https://github.com/jaeyooon/github-readme-stats)
 
 </div>
 
