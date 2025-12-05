@@ -25,8 +25,6 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyooon&layout=compact&hide=scss,php&title_color=f26a8d&bg_color=white&hide_border=true&text_color=black)](https://github.com/jaeyooon/github-readme-stats)
-
 </div>
 
 
